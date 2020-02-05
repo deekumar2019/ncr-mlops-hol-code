@@ -38,7 +38,7 @@ print('')
 print("2. Read training data from remote storage")
 print('.............................................')
 # Pandas dataframe
-df = pd.read_csv('https://mlopssa.blob.core.windows.net/chd-dataset/framingham.csv')
+df = pd.read_csv('https://wsmlopsdk5946507366.blob.core.windows.net/chd-dataset/framingham.csv')
 print('')
 print('')
 
